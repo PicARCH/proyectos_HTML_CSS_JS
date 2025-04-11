@@ -1,5 +1,5 @@
 ## Descripción 
-p4 crear un sitio web moderno y responsivo para plantas
+proyecto menu lateral
 ## Autor
 **jimmy callisaya canaza**
 
