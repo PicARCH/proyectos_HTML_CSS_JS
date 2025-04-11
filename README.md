@@ -7,5 +7,5 @@ p4 crear un sitio web moderno y responsivo para plantas
 
 ## Ver ejemplos en Vivo
 - 
-- [![Captura-de-pantalla-553.png](https://i.postimg.cc/3xKbqym5/Captura-de-pantalla-553.png)](https://postimg.cc/bsBTDwm3)
+- [![Captura-de-pantalla-554.png](https://i.postimg.cc/6pkGMP88/Captura-de-pantalla-554.png)](https://postimg.cc/k2y44fFC)
 
